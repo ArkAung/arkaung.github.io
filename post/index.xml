@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ark&#39;s Log</title>
+    <link>http://arkaung.github.io/ark-blog/post/index.xml</link>
+    <description>Recent content in Posts on Ark&#39;s Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2017 12:50:30 -0500</lastBuildDate>
+    <atom:link href="http://arkaung.github.io/ark-blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Machine Learning Log</title>
+      <link>http://arkaung.github.io/ark-blog/post/my-machine-learning-log/</link>
+      <pubDate>Sun, 22 Jan 2017 12:50:30 -0500</pubDate>
+      
+      <guid>http://arkaung.github.io/ark-blog/post/my-machine-learning-log/</guid>
+      <description>&lt;p&gt;The purpose of this blog (or a log) is to help people who would like to start Machine Learning on his or her own. This article does not reflect the best way out there to start Machine Learning but this is how I started.&lt;/p&gt;
+
+&lt;p&gt;If you are unfamiliar with Machine Learning, I recommend starting out your journey with &lt;a href=&#34;https://www.coursera.org/learn/machine-learning&#34;&gt;Andrew Ng&amp;rsquo;s Machine Learning&lt;/a&gt; course on Coursera. This course not only gives you the idea of what Machine Learning is but also covers some Mathematical Foundations of Machine Learning. Professor Ng introduces Mathematical concepts in a way that a beginner can easily ingest. But be warned that once you have finished this course, there is a ton of more Math to deal with if you really want to learn the essence of Machine Learning. Be prepared to freshen up your Linear Algebra, Probability and Multivariate Calculus to understand the intricacies of Machine Learning.&lt;/p&gt;
+
+&lt;p&gt;You need to have a good foundations in Mathematics to truly understand why the learning works in Machine Learning, how gradient descent actually works, why generalization actually works, how PAC learning works and so on. You don&amp;rsquo;t need to understand everything about them to implement Logistics Regression with GraphLab or any other framework out there. But if you want to build a good foundation in Machine Learning, sharpen up your Math skill and learn all the underlying concepts. The reason I am saying all those stuffs is not because I want to scare you off but because I am struggling with some complex Mathematical concepts when I really got down to the level to understand the true building blocks of Machine Learning. Remember, this is the stage where you can get discouraged and may decided to stop pursuing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://work.caltech.edu/telecourse.html&#34;&gt;Learning from Data&lt;/a&gt; from CalTech is more focused on theoretical underpinnings of Machine Learning. This course is a vanilla course offered at CalTech so don&amp;rsquo;t expect it to be easy. It is going to be challenging and you have to refer from various books (two of which I will describe below) to understand the concept. You may have to go over a single lecture again and again just to make sure that you have truly understood it.&lt;/p&gt;
+
+&lt;p&gt;Two of the books that I would like to recommend are &lt;strong&gt;Understanding Machine Learning: From Theory to Algorithms&lt;/strong&gt; by Shai Shalev-Shwartz and Shai Ben-David and &lt;strong&gt;Introduction to Machine Learning&lt;/strong&gt; by Ethem Alpaydin. These may not be the best books for you but you can ask for good recommendations from folks from &lt;a href=&#34;https://www.reddit.com/r/MachineLearning/&#34;&gt;/r/MachineLearning&lt;/a&gt;. MachineLearning subreddit is a very good source to get you familiar with the world of Machine Learning as well. Check it out daily. The twitter account for that subreddit is &lt;a href=&#34;https://twitter.com/slashML&#34;&gt;@slashML&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you feel like you are so bogged down by all the Math stuff and want to have a break, do  &lt;a href=&#34;https://www.coursera.org/learn/ml-foundations&#34;&gt;Machine Learning Foundations: A Case Study Approach&lt;/a&gt; from Coursera. This course is very easy and  focuses more on implementation part, using a framework called GraphLab. GraphLab is free for academic use so it may only be useful for your educational purposes. You can build many Machine Learning applications in a very short time using GraphLab and it will be a fun journey for you to do this course. But remember, don&amp;rsquo;t get disillusioned that ML is &lt;em&gt;only that&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are starting to venture out to Neural Networks after you have finished your Professor Ng&amp;rsquo;s course, you have to take &lt;a href=&#34;https://www.coursera.org/learn/neural-networks&#34;&gt;Neural Networks for Machine Learning&lt;/a&gt; by one and only Professor Hinton. Geoffrey Hinton is one of the brightest luminaries in the field of Machine Learning and Neural Networks. Be warned that this course is quite a bit more Math oriented as well, compared to Professor Ng&amp;rsquo;s course.&lt;/p&gt;
+
+&lt;p&gt;I would recommend reading this book, &lt;a href=&#34;http://www.deeplearningbook.org/&#34;&gt;Deep Learning Book&lt;/a&gt;. This book focuses more on Deep Neural Networks.&lt;/p&gt;
+
+&lt;p&gt;This is a  gentle but effective free online book on &lt;a href=&#34;http://neuralnetworksanddeeplearning.com/&#34;&gt;Neural Networks and Deep Learning&lt;/a&gt;. This book is both principle-oriented and hands-on. I highly recommend this.&lt;/p&gt;
+
+&lt;p&gt;As I am super stoked about Self-Driving Cars, I am doing &lt;a href=&#34;http://selfdrivingcars.mit.edu/&#34;&gt;6.S094: Deep Learning for Self-Driving Cars&lt;/a&gt; from MIT. The reason I take this course is that it promises that I can implement all the stuff in the course in browser. I don&amp;rsquo;t want to get any Amazon instances and burn a hole in my wallet.&lt;/p&gt;
+
+&lt;p&gt;I am working on a very interesting project using Deep  Neural Networks. I will publish my work  after this academic year.&lt;/p&gt;
+
+&lt;p&gt;As I am doing my Master&amp;rsquo;s in Computer Science at Worcester Polytechnic Institute, I am taking &lt;a href=&#34;http://web.cs.wpi.edu/~cs539/f15/&#34;&gt;Machine Learning&lt;/a&gt; by Professor Ruiz  and Deep Neural Networks by Professor Whitehill this semester.&lt;/p&gt;
+
+&lt;p&gt;I will update this log from time to time.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
