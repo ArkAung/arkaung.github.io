@@ -4,5 +4,5 @@
 * [Writing](https://medium.com/@ark_aung)
 * [AI Discussions](https://arkaung.github.io/aidiscussions/)
 * [Google Scholar](https://scholar.google.com/citations?user=KRZfXJQAAAAJ)
-* [Social](https://twitter.com/arkaung)
+* [Social](https://twitter.com/ark_aung)
 * Email: <aaung@pm.me>
