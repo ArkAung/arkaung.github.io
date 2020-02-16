@@ -5,4 +5,4 @@
 * [AI Discussions](https://arkaung.github.io/aidiscussions/)
 * [Google Scholar](https://scholar.google.com/citations?user=KRZfXJQAAAAJ)
 * [Social](https://twitter.com/arkaung)
-* [<aaung@pm.me>
+* Email: <aaung@pm.me>
