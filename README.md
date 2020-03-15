@@ -13,3 +13,4 @@
 ### Papers I recently read
 * [Subclass distillation](https://arxiv.org/pdf/2002.03936.pdf)
 * [Learning Active Learning from Data](https://papers.nips.cc/paper/7010-learning-active-learning-from-data.pdf)
+* [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://arxiv.org/pdf/2003.03384.pdf)
