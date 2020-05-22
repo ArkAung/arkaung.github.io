@@ -6,9 +6,11 @@
 * [Social](https://twitter.com/ark_aung)
 * Email: <aaung@pm.me>
 
+## Get in touch with me if you are:
+* Interested in self-driving cars, measuring uncertainty in deep neural networks, active learning and knowledge distillation.
+
 ### I organize
 * [AI Discussions](https://arkaung.github.io/aidiscussions/)
-* [FastAI Yangon Study Group](https://docs.google.com/document/d/1wLW3TnEtP2u4RAFHCIzkYw0HtyELjpbNV9U_lZpPDJs/edit?usp=sharing)
 * Independent research group working on a novel active learning technique using knowledge distillation. For more info on this, please send me an email.
 
 ### Papers I recently read
