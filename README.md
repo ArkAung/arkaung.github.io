@@ -23,3 +23,8 @@
 * [124. Binary Tree Maximum Path Sum - [Python] Recursion stack thinking process diagram](https://leetcode.com/discuss/topic/603423)
 * [525. Contiguous Array - [Python] HashMap solution + Thinking Process Diagram](https://leetcode.com/discuss/topic/653541)
 * [1143. Longest Common Subsequence - [Python] DP solution with Explanation + Thinking process + Diagram](https://leetcode.com/discuss/topic/598508)
+* [91. Decode Ways - [Python] Thinking process diagram (DP + DFS)](https://leetcode.com/discuss/topic/608268)
+* [1277. Count Square Submatrices with All Ones - [Python] DP Solution + Thinking Process Diagrams (O(mn) runtime; O(1) space)](https://leetcode.com/discuss/topic/643429)
+* [221. Maximal Square - [Python] Thinking Process Diagrams - DP Approach](https://leetcode.com/discuss/topic/600149)
+* [986. Interval List Intersections - [Python] Two Pointer Approach + Thinking Process Diagrams](https://leetcode.com/discuss/topic/647482)
+* [1232. Check If It Is a Straight Line - [Python] O(1) space O(n) Runtime - using slope formula](https://leetcode.com/discuss/topic/620137)
