@@ -18,7 +18,9 @@
 * [Learning Active Learning from Data](https://papers.nips.cc/paper/7010-learning-active-learning-from-data.pdf)
 * [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://arxiv.org/pdf/2003.03384.pdf)
 
-### If you are coming here from LeetCode and want to my posts there:
+---
+
+### If you are coming here from LeetCode and want to see my posts there:
 
 * [124. Binary Tree Maximum Path Sum - [Python] Recursion stack thinking process diagram](https://leetcode.com/discuss/topic/603423)
 * [525. Contiguous Array - [Python] HashMap solution + Thinking Process Diagram](https://leetcode.com/discuss/topic/653541)
