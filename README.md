@@ -3,6 +3,7 @@
 * [Code](https://www.github.com/arkaung)
 * [Writing](https://medium.com/@ark_aung)
 * [Google Scholar](https://scholar.google.com/citations?user=KRZfXJQAAAAJ)
+* [LinkedIn](www.linkedin.com/in/arkarminaung)
 * Email: <aaung@pm.me>
 
 ## Get in touch with me if you are:
