@@ -4,7 +4,7 @@
 * [Google Scholar](https://scholar.google.com/citations?user=KRZfXJQAAAAJ)
 * Email: <aaung@pm.me>
 
-## Get in touch with me if you are:
+## Get in touch with me if you are
 * Interested in model interpretability, building small and quirky models
 * Interested in making ML concepts intuitive
 
